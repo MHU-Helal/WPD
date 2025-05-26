@@ -9,12 +9,18 @@
 </head>
 <body>
 
+    <?php get_header() ?>
+
 
     <div class="container">
 
         <h1 class="text-center my-5">Hello from BD!</h1>
 
     </div>
+
+
+
+    <?php get_footer() ?>
 
 
 
