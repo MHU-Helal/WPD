@@ -1,0 +1,1 @@
+This directory houses custom template parts of the theme like header, footer, sidebars

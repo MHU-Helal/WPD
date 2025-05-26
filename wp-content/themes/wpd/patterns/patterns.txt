@@ -1,0 +1,1 @@
+This pattern directory houses reusable patterns that users can insert via the editor interface. Files in this folder will be automatically registered.
